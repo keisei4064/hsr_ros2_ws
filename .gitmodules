@@ -82,3 +82,7 @@
 	path = src/hsrb_moveit_plugins
 	url = https://github.com/hsr-project/hsrb_moveit_plugins.git
 	branch = humble
+[submodule "src/hsrb_interfaces"]
+	path = src/hsrb_interfaces
+	url = https://github.com/hsr-project/hsrb_interfaces.git
+	branch = humble
