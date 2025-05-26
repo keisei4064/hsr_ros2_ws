@@ -74,3 +74,11 @@
 	path = src/tmc_voice
 	url = https://github.com/hsr-project/tmc_voice.git
 	branch = humble
+[submodule "src/hsrb_moveit_config"]
+	path = src/hsrb_moveit_config
+	url = https://github.com/hsr-project/hsrb_moveit_config.git
+	branch = humble
+[submodule "src/hsrb_moveit_plugins"]
+	path = src/hsrb_moveit_plugins
+	url = https://github.com/hsr-project/hsrb_moveit_plugins.git
+	branch = humble
