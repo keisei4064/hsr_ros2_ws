@@ -1,0 +1,88 @@
+[submodule "src/gazebo_ros2_control"]
+	path = src/gazebo_ros2_control
+	url = https://github.com/hsr-project/gazebo_ros2_control.git
+	branch = humble
+[submodule "src/hsrb_controllers"]
+	path = src/hsrb_controllers
+	url = https://github.com/hsr-project/hsrb_controllers.git
+	branch = humble
+[submodule "src/hsrb_common"]
+	path = src/hsrb_common
+	url = https://github.com/hsr-project/hsrb_common.git
+	branch = humble
+[submodule "src/hsrb_drivers"]
+	path = src/hsrb_drivers
+	url = https://github.com/hsr-project/hsrb_drivers.git
+	branch = humble
+[submodule "src/hsrb_launch"]
+	path = src/hsrb_launch
+	url = https://github.com/hsr-project/hsrb_launch.git
+	branch = humble
+[submodule "src/hsrb_manipulation"]
+	path = src/hsrb_manipulation
+	url = https://github.com/hsr-project/hsrb_manipulation.git
+	branch = humble
+[submodule "src/hsrb_rosnav"]
+	path = src/hsrb_rosnav
+	url = https://github.com/hsr-project/hsrb_rosnav.git
+	branch = humble
+[submodule "src/hsrb_simulator"]
+	path = src/hsrb_simulator
+	url = https://github.com/hsr-project/hsrb_simulator.git
+	branch = humble
+[submodule "src/hsr_common"]
+	path = src/hsr_common
+	url = https://github.com/hsr-project/hsr_common.git
+	branch = humble
+[submodule "src/hsrb_teleop"]
+	path = src/hsrb_teleop
+	url = https://github.com/hsr-project/hsrb_teleop.git
+	branch = humble
+[submodule "src/tmc_gazebo"]
+	path = src/tmc_gazebo
+	url = https://github.com/hsr-project/tmc_gazebo.git
+	branch = humble
+[submodule "src/tmc_teleop"]
+	path = src/tmc_teleop
+	url = https://github.com/hsr-project/tmc_teleop.git
+	branch = humble
+[submodule "src/tmc_common"]
+	path = src/tmc_common
+	url = https://github.com/hsr-project/tmc_common.git
+	branch = humble
+[submodule "src/tmc_common_msgs"]
+	path = src/tmc_common_msgs
+	url = https://github.com/hsr-project/tmc_common_msgs.git
+	branch = humble
+[submodule "src/tmc_drivers"]
+	path = src/tmc_drivers
+	url = https://github.com/hsr-project/tmc_drivers.git
+	branch = humble
+[submodule "src/tmc_database"]
+	path = src/tmc_database
+	url = https://github.com/hsr-project/tmc_database.git
+	branch = humble
+[submodule "src/tmc_manipulation"]
+	path = src/tmc_manipulation
+	url = https://github.com/hsr-project/tmc_manipulation.git
+	branch = humble
+[submodule "src/tmc_manipulation_base"]
+	path = src/tmc_manipulation_base
+	url = https://github.com/hsr-project/tmc_manipulation_base.git
+	branch = humble
+[submodule "src/tmc_manipulation_planner"]
+	path = src/tmc_manipulation_planner
+	url = https://github.com/hsr-project/tmc_manipulation_planner.git
+	branch = humble
+[submodule "src/tmc_realtime_control"]
+	path = src/tmc_realtime_control
+	url = https://github.com/hsr-project/tmc_realtime_control.git
+	branch = humble
+[submodule "src/tmc_voice"]
+	path = src/tmc_voice
+	url = https://github.com/hsr-project/tmc_voice.git
+	branch = humble
+[submodule "src/tmc_navigation"]
+	path = src/tmc_navigation
+	url = https://github.com/hsr-project/tmc_navigation.git
+	branch = humble
