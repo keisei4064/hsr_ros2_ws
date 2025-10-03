@@ -12,6 +12,7 @@ git clone --recurse-submodules git@github.com:keisei4064/hsr_ros2_ws.git
 # 実機用コードは無視
 cd hsr_ros2_ws/
 touch src/tmc_drivers/tmc_pgr_camera/COLCON_IGNORE
+touch src/hsrb_launch/hsrb_robot_launch/COLCON_IGNORE
 
 # 依存関係のインストール
 cd ~/hsr_ros2_ws
