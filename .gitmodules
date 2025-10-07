@@ -1,7 +1,3 @@
-[submodule "src/gazebo_ros2_control"]
-	path = src/gazebo_ros2_control
-	url = https://github.com/hsr-project/gazebo_ros2_control.git
-	branch = humble
 [submodule "src/hsrb_controllers"]
 	path = src/hsrb_controllers
 	url = https://github.com/hsr-project/hsrb_controllers.git
